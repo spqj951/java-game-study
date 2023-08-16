@@ -1,3 +1,5 @@
+package ch02;
+
 import java.util.Date;
 import java.util.Random;
 import java.text.SimpleDateFormat;
